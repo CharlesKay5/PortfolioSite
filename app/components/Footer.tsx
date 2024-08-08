@@ -39,13 +39,13 @@ const Footer = () => {
                     className="text-4xl xl:text-6xl font-bold py-3 text-center hover:text-green-200"
                     {...fadeIn}
                 >
-                    Let's work together!
+                    Let&apos;s work together!
                 </motion.h2>
                 <motion.p
                     className="text-2xl text-center text-green-300 my-2"
                     {...fadeIn}
                 >
-                    Please contact me if you're interested :){" "}
+                    Please contact me if you&apos;re interested :){" "}
                 </motion.p>
                 <motion.p className="text-center" {...fadeIn}>
                     Thanks in advance!

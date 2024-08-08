@@ -27,7 +27,7 @@ const HeroSection = () => {
 								typeSpeed={200}
 								className={`text-6xl font-bold hover:text-green-200 duration-500`}
 							/>
-							<h2 className='text-2xl ml-2 pt-3 pb-1 opacity-90 font-[500]'>I'm a Front End Developer</h2>
+							<h2 className='text-2xl ml-2 pt-3 pb-1 opacity-90 font-[500]'>I&apos;m a Front End Developer</h2>
 							<p className='ml-2 mb-2 opacity-80'>Based in Sydney, Australia</p>
 							<div className='flex justify-start'>
 								<a href='https://github.com/charleskay5' className='flex p-4 mt-2 mb-2 mr-2 bg-neutral-900 w-full rounded-3xl justify-start hover:bg-neutral-800'>

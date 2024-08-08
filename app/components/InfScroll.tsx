@@ -54,7 +54,7 @@ const InfScroll = () => {
             });
         }
         return controls?.stop;
-    }, [xTranslation, width, duration, rerender]);
+    }, [xTranslation, width, duration, rerender, mustFinish]);
 
 
     return (
