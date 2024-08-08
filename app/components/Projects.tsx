@@ -36,8 +36,8 @@ const Projects = () => {
     {
       description: "This is the very site you're on right now! It features Three JS 3D modelling, Framer Motion animations, and a custom design. The site is built with Next JS, TypeScript and Tailwind CSS.",
       projectTitle: 'My Portfolio Website',
-      projectSubText: 'CharlesKay.onrender.com',
-      projectUrl: 'CharlesKay.onrender.com',
+      projectSubText: 'CharlesKay.vercel.app',
+      projectUrl: 'CharlesKay.vercel.app',
       imageUrl: '/CharlesKay.png',
       projectTechs: ['Next', 'TypeScript', 'Tailwind'],
     },

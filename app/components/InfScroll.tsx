@@ -14,7 +14,7 @@ const InfScroll = () => {
         "/Next.js.png",
         "/Tailwind.svg",
         "/Node.svg",
-        "/Git.png",
+        "/git.png",
         "/SQL.svg"
     ];
 
