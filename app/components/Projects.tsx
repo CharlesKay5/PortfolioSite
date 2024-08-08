@@ -22,7 +22,7 @@ const Projects = () => {
       projectTitle: 'SEO Website Auditor',
       projectSubText: 'Insane Marketing (defunct)',
       projectUrl: '',
-      imageUrl: '/SEOAudit.jpg',
+      imageUrl: '/SEOAudit.JPG',
       projectTechs: ['Svelte', 'Puppeteer', 'Node', 'Express'],
     },
     {
