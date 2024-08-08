@@ -1,0 +1,32 @@
+
+@keyframes downAnimation {
+    0% {
+        opacity: 0;
+        transform: translateY(-6vh);
+    }
+    25% {
+        opacity: 1;
+        transform: translateY(-6vh);
+    }
+    50% {
+        opacity: 1;
+        transform: translateY(-3vh);
+    }
+    75% {
+        opacity: 0;
+        transform: translateY(-3vh);
+    }
+    100% {
+        opacity: 0;
+        transform: translateY(-6vh);
+    }
+}
+
+.animateDownArrow {
+    animation: downAnimation 2.5s ease-in-out infinite;
+}
+
+.animateDownArrowDelayed {
+    animation: downAnimation 2.5s ease-in-out infinite;
+    animation-delay: 1.25s;
+}

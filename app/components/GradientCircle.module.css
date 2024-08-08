@@ -1,0 +1,7 @@
+.radialGreen {
+    background: radial-gradient(circle, #86efac 0%, transparent 60%);
+    
+    /* DEBUGGING: */
+    /* background: radial-gradient(circle, #86efac 100%, transparent 50%); */
+    opacity: 0.15;
+  }
